@@ -1,0 +1,16 @@
+node_modules
+.history
+.vscode
+.DS_Store
+
+*.log
+
+/** 文件及模板 */
+
+files/*
+!files/xls_template
+
+/** end 文件及模板 */
+
+buildlogs
+node_modules/
