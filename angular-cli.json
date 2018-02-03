@@ -3,6 +3,7 @@
     "version": "1.0.0-beta.28.3",
     "name": "stock"
   },
+  "apps": [
     {
       "root": "src",
       "outDir": "dist",
